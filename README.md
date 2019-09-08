@@ -8,7 +8,7 @@
 1. [译论水](https://github.com/tinygan/Landscape-Painting-hz/blob/master/%E8%AF%91%E8%AE%BA%E6%B0%B4.md)
 1. [译论林木](https://github.com/tinygan/Landscape-Painting-hz/blob/master/%E8%AF%91%E8%AE%BA%E6%9E%97%E6%9C%A8.md)
 1. [译论石](https://github.com/tinygan/Landscape-Painting-hz/blob/master/%E8%AF%91%E8%AE%BA%E7%9F%B3.md)
-1. [译论云雾烟霭岚光风雨雪雾]()
+1. [译论云雾烟霭岚光风雨雪雾](https://github.com/tinygan/Landscape-Painting-hz/blob/master/%E8%AF%91%E8%AE%BA%E4%BA%91%E9%9B%BE%E7%83%9F%E9%9C%AD%E5%B2%9A%E5%85%89%E9%A3%8E%E9%9B%A8%E9%9B%AA%E9%9B%BE.md)
 1. [译论人物桥彴闗城寺观山居舟车四时之景]()
 1. [译论用笔墨格法气韵病]()
 1. [译论观画别识]()
